@@ -3,7 +3,6 @@
 [![License BSD-3](https://img.shields.io/pypi/l/quite-right-physics.svg?color=green)](https://github.com/Kapoorlabs-CAPED/quite-right-physics/raw/main/LICENSE)
 [![PyPI](https://img.shields.io/pypi/v/quite-right-physics.svg?color=green)](https://pypi.org/project/quite-right-physics)
 [![Python Version](https://img.shields.io/pypi/pyversions/quite-right-physics.svg?color=green)](https://python.org)
-[![tests](https://github.com/Kapoorlabs-CAPED/quite-right-physics/workflows/tests/badge.svg)](https://github.com/Kapoorlabs-CAPED/quite-right-physics/actions)
 [![codecov](https://codecov.io/gh/Kapoorlabs-CAPED/quite-right-physics/branch/main/graph/badge.svg)](https://codecov.io/gh/Kapoorlabs-CAPED/quite-right-physics)
 
 
